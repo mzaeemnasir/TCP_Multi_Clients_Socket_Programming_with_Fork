@@ -11,7 +11,7 @@
 // 3. Listen for connections
 // 4. Accept the connection
 // 5. Receive data
-// 6. Send dat
+// 6. Send data
 
 #include <iostream>
 #include <string>
